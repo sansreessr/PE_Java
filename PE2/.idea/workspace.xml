@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9570b57-d594-4f1e-8758-52f27a074dfd" name="Default Changelist" comment="" />
+    <list default="true" id="f9570b57-d594-4f1e-8758-52f27a074dfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/src/main/java/com/stackroute/AddMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/src/main/java/com/stackroute/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/src/test/java/com/stackroute/AddMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE3/src/test/java/com/stackroute/StudentMarksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/PE2.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +29,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Qd8jBa3qJHnExnKzvmlcvdGxet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataMungerStep2_Boilerplate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -42,8 +60,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest">
-    <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.App" />
       <module name="PE2" />
       <extension name="coverage">
         <pattern>
@@ -51,14 +70,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.FactorialTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialTest.longFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <extension name="coverage">
         <pattern>
@@ -67,9 +83,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.FactorialTest" />
-      <option name="METHOD_NAME" value="longFactorial" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.UserTest.isValidAge" />
         <item itemvalue="JUnit.UserTest.getFullName" />
-        <item itemvalue="JUnit.FactorialTest" />
-        <item itemvalue="JUnit.FactorialTest.longFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -143,5 +158,18 @@
       <updated>1568089245771</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
